@@ -37,7 +37,7 @@ gerenciamento-biblioteca/
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/gerenciamento-biblioteca.git
+    git clone https://github.com/lucasvitancourt/gerenciamento-biblioteca.git
     cd gerenciamento-biblioteca
     ```
 
