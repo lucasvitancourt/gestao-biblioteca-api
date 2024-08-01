@@ -9,7 +9,7 @@ import (
 	"github.com/gorilla/context"
 )
 
-var secretKey = []byte("sua-chave-secreta")
+var secretKey = []byte("testekey")
 
 func VerificaTokenMiddleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
