@@ -37,13 +37,13 @@ gerenciamento-biblioteca/
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/lucasvitancourt/gerenciamento-biblioteca.git
-    cd gerenciamento-biblioteca
+    git clone https://github.com/lucasvitancourt/gestao-biblioteca-api.git
+    cd gestao-biblioteca-api
     ```
 
 2. Inicialize o módulo Go:
     ```sh
-    go mod init gerenciamento-biblioteca
+    go mod init gestao-biblioteca-api
     go mod tidy
     ```
 
