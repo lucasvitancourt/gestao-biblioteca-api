@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gorilla/context v1.1.2
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	gorm.io/driver/sqlite v1.5.6
 	gorm.io/gorm v1.25.11
 )
