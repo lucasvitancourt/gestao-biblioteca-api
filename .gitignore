@@ -1,0 +1,19 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Testes e cobertura
+*.test
+*.out
+coverage.*
+
+# Dependências
+vendor/
+
+# Editor / SO
+.idea/
+.vscode/
+.DS_Store
